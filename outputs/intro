@@ -1,0 +1,5 @@
+# Contains exported visualizations used in analysis:
+
+-pnl_vs_sentiment.png → Performance comparison
+-trade_frequency.png → Behavioral analysis
+-segment_analysis.png → Trader segmentation insights
